@@ -1,5 +1,5 @@
-<div>
-    <img href="https://media.giphy.com/media/QXwtfadqo7wbfmT46H/giphy.gif" />
+<div align="center">
+    <img src="https://media.giphy.com/media/QXwtfadqo7wbfmT46H/giphy.gif" />
 </div>
 
 # Jay-Leigh Reece Vergotine
