@@ -6,7 +6,7 @@
 
 **`Enthusiastic Developer(Developer/Designer/Creator)`**
 
-Be it Software, Websites or even Mobile Applications, I am someone that leans towards the spark and aims to create light. Activiely striving to showcase my skill level by attempting to out level those around me. My dream is to get to a point where I can be a go to person on Stack Overflow.
+Be it Software, Websites or even Mobile Applications, I am someone that leans towards the spark and aims to create light. Actively striving to showcase my skill level by attempting to out level those around me. My dream is to get to a point where I can be a go to person on Stack Overflow.
 
 ---
 
